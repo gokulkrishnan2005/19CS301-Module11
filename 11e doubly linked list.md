@@ -126,7 +126,7 @@ llist.printList(llist.head)
 ```
 ### Output:
  
-![image](https://github.com/user-attachments/assets/c9883d28-638d-4f70-bc2d-f269a1606a45)
+![image](https://github.com/gokulkrishnan2005/19CS301-Module11/blob/main/11%20seb.png)
 
  
 
