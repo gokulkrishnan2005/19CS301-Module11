@@ -1,4 +1,4 @@
-### EX: 11.d Doubly Linked List (Insertion in forwar and reverse direction)
+### EX: 11.e Doubly Linked List (Insertion in forward and reverse direction)
 
 
 ### Aim:
