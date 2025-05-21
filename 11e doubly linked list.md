@@ -1,7 +1,8 @@
 ### EX: 11.d Doubly Linked List (Insertion in forwar and reverse direction)
 
 
-### Aim: To Type a python function to insert element in the doubly linked list in forward and reverse direction.
+### Aim:
+To Type a python function to insert element in the doubly linked list in forward and reverse direction.
 ### Algorithm:
 
 
